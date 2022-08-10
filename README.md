@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Sergey Prudnikov (@SPG777)
+- 👋 Hi, I’m Sergey (@SPG777)
 - 👀 I’m interested in Python programming
 - 🌱 Now I am learning the basics of programming from the very beginning
 - 💞️ I invite all caring novice programmers to cooperate
